@@ -56,3 +56,6 @@ Proses selesai, klik Finish
 
 ## configurasi git
 ![config](config.png)
+
+## mengelola repo sendiri
+![kelolarepo](kelolarepo.png)
